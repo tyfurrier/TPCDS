@@ -47,7 +47,7 @@ columns:
     data_type: "decimal(7,2)"
   - name: ws_net_profit
     data_type: "decimal(7,2)"
-  - name: ws_order_number
+  - name: ws_order_numeric
     data_type: long
   - name: ws_promo_sk
     data_type: long
