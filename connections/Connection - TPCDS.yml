@@ -2,5 +2,5 @@ unique_name: Connection - TPCDS
 label: Connection - TPCDS
 object_type: connection
 as_connection: conY
-database: atscale_tutorial_data
-schema: tpcds
+database: atscale-sales-demo
+schema: tpcds_100gb
