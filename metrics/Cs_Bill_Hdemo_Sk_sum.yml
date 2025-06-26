@@ -1,6 +1,0 @@
-unique_name: Cs_Bill_Hdemo_Sk_sum
-object_type: metric
-label: Cs_Bill_Hdemo_Sk_sum
-calculation_method: sum
-column: cs_bill_hdemo_sk
-dataset: catalog_sales

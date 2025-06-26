@@ -1,6 +1,0 @@
-unique_name: Cs_Ship_Hdemo_Sk_sum
-object_type: metric
-label: Cs_Ship_Hdemo_Sk_sum
-calculation_method: sum
-column: cs_ship_hdemo_sk
-dataset: catalog_sales

@@ -1,6 +1,0 @@
-unique_name: m_purchase_by_channel_sold_year_sum
-object_type: metric
-label: Sold Year
-calculation_method: sum
-column: sold_year
-dataset: purchase_by_channel

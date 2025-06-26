@@ -1,6 +1,0 @@
-unique_name: Cs_Order_Number_sum
-object_type: metric
-label: Cs_Order_Number_sum
-calculation_method: sum
-column: cs_order_number
-dataset: catalog_sales

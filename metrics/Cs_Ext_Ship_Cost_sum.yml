@@ -1,6 +1,0 @@
-unique_name: Cs_Ext_Ship_Cost_sum
-object_type: metric
-label: Cs_Ext_Ship_Cost_sum
-calculation_method: sum
-column: cs_ext_ship_cost
-dataset: catalog_sales
