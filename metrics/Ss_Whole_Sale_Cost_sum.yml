@@ -1,6 +1,0 @@
-unique_name: Ss_Whole_Sale_Cost_sum
-object_type: metric
-label: Ss_Whole_Sale_Cost_sum
-calculation_method: sum
-column: ss_wholesale_cost
-dataset: store_sales

@@ -1,8 +1,0 @@
-object_type: model_settings
-overrides:
-    TPCDS - Composite:
-        "query.factless.ignoreIncidentalFilter": false
-        "query.factless.useIncidentalFacts": false
-    TPCDS - Inventory:
-        "query.factless.ignoreIncidentalFilter": false
-       

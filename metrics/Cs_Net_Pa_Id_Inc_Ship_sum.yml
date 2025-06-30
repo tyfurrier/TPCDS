@@ -1,6 +1,0 @@
-unique_name: Cs_Net_Pa_Id_Inc_Ship_sum
-object_type: metric
-label: Cs_Net_Pa_Id_Inc_Ship_sum
-calculation_method: sum
-column: cs_net_paid_inc_ship
-dataset: catalog_sales

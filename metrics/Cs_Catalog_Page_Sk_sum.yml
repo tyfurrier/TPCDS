@@ -1,6 +1,0 @@
-unique_name: Cs_Catalog_Page_Sk_sum
-object_type: metric
-label: Cs_Catalog_Page_Sk_sum
-calculation_method: sum
-column: cs_catalog_page_sk
-dataset: catalog_sales
