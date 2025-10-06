@@ -3,15 +3,15 @@ object_type: dataset
 label: store_promotion
 columns:
   - name: p_promo_sk
-    data_type: int
+    data_type: decimal(38,0)
   - name: p_promo_id
     data_type: string
   - name: p_start_date_sk
-    data_type: int
+    data_type: decimal(38,0)
   - name: p_end_date_sk
-    data_type: int
+    data_type: decimal(38,0)
   - name: p_item_sk
-    data_type: int
+    data_type: decimal(38,0)
   - name: p_cost
     data_type: decimal(15,2)
   - name: p_response_target
@@ -41,25 +41,25 @@ columns:
   - name: p_discount_active
     data_type: string
   - name: ss_sold_date_sk
-    data_type: int
+    data_type: decimal(38,0)
   - name: ss_sold_time_sk
-    data_type: int
+    data_type: decimal(38,0)
   - name: ss_item_sk
-    data_type: int
+    data_type: decimal(38,0)
   - name: ss_customer_sk
-    data_type: int
+    data_type: decimal(38,0)
   - name: ss_cdemo_sk
-    data_type: int
+    data_type: decimal(38,0)
   - name: ss_hdemo_sk
-    data_type: int
+    data_type: decimal(38,0)
   - name: ss_addr_sk
-    data_type: int
+    data_type: decimal(38,0)
   - name: ss_store_sk
-    data_type: int
+    data_type: decimal(38,0)
   - name: ss_promo_sk
-    data_type: int
+    data_type: decimal(38,0)
   - name: ss_ticket_numeric
-    data_type: int
+    data_type: decimal(38,0)
   - name: ss_quantity
     data_type: int
   - name: ss_wholesale_cost
